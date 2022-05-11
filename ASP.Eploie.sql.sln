@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.Eploie.sql", "ASP.Eploie.sql\ASP.Eploie.sql.csproj", "{4F8243E4-98CB-4CC8-9FA1-0FFC58C73228}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F8243E4-98CB-4CC8-9FA1-0FFC58C73228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F8243E4-98CB-4CC8-9FA1-0FFC58C73228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F8243E4-98CB-4CC8-9FA1-0FFC58C73228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F8243E4-98CB-4CC8-9FA1-0FFC58C73228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F418930B-2BF6-439B-9784-21E0A50BC90A}
+	EndGlobalSection
+EndGlobal
